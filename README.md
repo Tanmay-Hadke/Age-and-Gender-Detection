@@ -81,6 +81,4 @@ Ensure you have the following installed:
 - Explore other feature extraction techniques like histogram equalization.
 - Incorporate explainability techniques to interpret model predictions.
 
----  
-
-Would you like to include example results or additional visualizations in the README?
+---
