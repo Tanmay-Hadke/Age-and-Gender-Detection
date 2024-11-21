@@ -53,8 +53,8 @@ Ensure you have the following installed:
 ### Steps to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Tanmay-Hadke/Age-and-Gender-Detection/tree/main
-   cd https://github.com/Tanmay-Hadke/Age-and-Gender-Detection/tree/main
+   git clone https://github.com/Tanmay-Hadke/Age-and-Gender-Detection/
+   cd Age-and-Gender-Detection
    ```  
 
 2. Install dependencies:  
